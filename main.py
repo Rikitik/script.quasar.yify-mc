@@ -1,8 +1,11 @@
-import re
-import common
+# coding: utf-8
+__author__ = 'mancuniancol'
+
 import bs4
 import requests
-from pulsar import provider
+from quasar import provider
+
+import common
 
 # this read the settings
 settings = common.Settings()
