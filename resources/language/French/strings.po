@@ -23,6 +23,11 @@ msgctxt "#32050"
 msgid "General"
 msgstr "Général"
 
+#: IMDB main.py:6
+msgctxt "#32151"
+msgid "Langue:"
+msgstr "Langa"
+
 #: settings.xml:11
 msgctxt "#32057"
 msgid "Notification Message"
@@ -83,17 +88,52 @@ msgctxt "#32093"
 msgid "URL address (ex:http://www.example.com):"
 msgstr "Lien URL (ex: http://www.example.com):"
 
-#: settings.xml:11
-msgctxt "#32200"
-msgid "Limitation Taille Fichiers"
-msgstr ""
-
-#: settings.xml:12
-msgctxt "#32201
-msgid "Taille Minimum en GB (0 = Pas Filtre):"
-msgstr ""
+#: settings.xml:13
+msgctxt "#32199"
+msgid "Language for the Search"
+msgstr "Langue pour la Recherche"
 
 #: settings.xml:13
-msgctxt "#32202"
-msgid "Taille Maximum en GB (0 = Pas Filtre):"
-msgstr ""
+msgctxt "#32200"
+msgid "Extra Keywords to send in the URL"
+msgstr "Mots-clés supplémentaires pour envoyer dans l'URL"
+
+#: settings.xml:13
+msgctxt "#32201"
+msgid "Extra Keywords:"
+msgstr "Mots-clés supplémentaires:"
+
+#: settings.xml:13
+msgctxt "#32205"
+msgid "Download Settings"
+msgstr "Paramètres de téléchargement"
+
+#: settings.xml:13
+msgctxt "#32206"
+msgid "Maximum Torrents to Send to Quasar:"
+msgstr "Maximum de Torrents pour envoyer à Quasar"
+
+#: settings.xml:11
+msgctxt "#32207"
+msgid "Limitation Size Files"
+msgstr "Restriction de Taille pour les Fichiers"
+
+#: settings.xml:11
+msgctxt "#32208"
+msgid "Limitation Size Movie Files"
+msgstr "Restriction Taille pour le Fichiers de Films"
+
+#: settings.xml:11
+msgctxt "#32209"
+msgid "Limitation Size TV Files"
+msgstr "Restriction Taille pour le Fichiers de Émission Télévision"
+
+#: settings.xml:12
+msgctxt "#32210"
+msgid "Minimum Size in GB (0 = Filter OFF):"
+msgstr "Taille Minimum en GB (0 = Pas de Filtre):"
+
+#: settings.xml:13
+msgctxt "#32211"
+msgid "Maximum Size in GB (10 = Filter OFF):"
+msgstr "Taille Maximum en GB (0 = Pas de Filtre):"
